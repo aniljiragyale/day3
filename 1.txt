@@ -1,1 +1,39 @@
+Sun
+cheth
+ram
+<<<<<<< Updated upstream
+Sun
+cheth
+ram
+=======
+kilikil 
+1
+manju
+
 chethan
+>>>>>>> Stashed changes
+<<<<<<< .mine
+<<<<<<< Updated upstream
+Sun
+cheth
+ram
+=======
+kilikil 
+1
+manju
+
+chethan
+>>>>>>> Stashed changes
+=======
+chethan
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
