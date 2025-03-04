@@ -16,7 +16,7 @@ chethan
 <<<<<<< Updated upstream
 Sun
 cheth
-ram
+ra
 =======
 kilikil 
 1
